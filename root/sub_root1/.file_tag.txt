@@ -1,0 +1,5 @@
+project:I12345_A
+beamline:ESRF_ID3
+year:2019
+dataid:I12345_A_a
+participant:qiu,tim

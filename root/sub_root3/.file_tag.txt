@@ -1,0 +1,5 @@
+project:I12345_C
+beamline:DESY_P21
+year:2019
+dataid:I12345_C_a
+participant:olaf,jochim

@@ -1,0 +1,5 @@
+project:I12345_B
+beamline:ESRF_ID31
+year:2018
+dataid:I12345_B_a
+participant:timo,fouad

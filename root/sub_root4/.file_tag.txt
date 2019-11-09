@@ -1,0 +1,5 @@
+project:I12345_A
+beamline:DESY_P21
+year:2017
+dataid:I12345_D_a
+participant:fouad,tim
